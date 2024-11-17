@@ -27,6 +27,8 @@ If you would like to use this bot, personally or commercially, please give me ([
 
 ## Code Showcase
 
+![Clean & Simple Code](images/music_player_showcase.png)
+
 ## Built With
 
 [tkinter]([https://discordpy.readthedocs.io/en/stable/](https://docs.python.org/3/library/tkinter.html)) - The library used

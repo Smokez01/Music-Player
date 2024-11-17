@@ -33,7 +33,7 @@ If you would like to use this bot, personally or commercially, please give me ([
 
 ## Built With
 
-[tkinter]([https://discordpy.readthedocs.io/en/stable/](https://docs.python.org/3/library/tkinter.html)) - The library used
+[tkinter](https://docs.python.org/3/library/tkinter.html) - The library used
 
 [Python](https://www.python.org/) - The Runtime
 

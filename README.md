@@ -42,7 +42,7 @@ Any pull request's are welcome!
 
 ## Issues
 
-If you have any issue, please don't hesitate to make a [issue](https://github.com/Smokez01/Economy-Discord-Bot-Python/issues), I will gladly take a look at it and try to fix it!
+If you have any issue, please don't hesitate to make a [issue](https://github.com/Smokez01/Music-Player/issues), I will gladly take a look at it and try to fix it!
 
 ## Authors
 
@@ -50,4 +50,4 @@ Smokez01 - Initial work & all the project - [Smokez01](https://github.com/Smokez
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Smokez01/Economy-Discord-Bot-Python/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Smokez01/Music-Player/blob/main/LICENSE) file for details

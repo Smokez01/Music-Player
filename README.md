@@ -1,4 +1,4 @@
-# Music Player with tkinter
+# Music Player with tkinter (Python)
 
 ![Clean & Simple Design](images/music_player.png)
 

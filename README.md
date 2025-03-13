@@ -11,7 +11,7 @@ A very simple music player where you can upload local files.
 1. #### Clone the repository
    
    ```bash
-   git clone https://github.com/Smokez01/Economy-Discord-Bot-Python
+   git clone https://github.com/Smokez01/Music-Player#
    ```
    
 2. #### Install Dependencies:
